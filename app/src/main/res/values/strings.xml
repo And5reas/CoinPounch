@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinPounch</string>
+    <string name="app_title">Coin Pouch</string>
+    <string name="txt_platina">Platina</string>
+    <string name="txt_ouro">Ouro</string>
+    <string name="txt_electro">Electro</string>
+    <string name="txt_prata">Prata</string>
+    <string name="txt_cobre">Cobre</string>
+</resources>
